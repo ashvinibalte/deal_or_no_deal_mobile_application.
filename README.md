@@ -1,5 +1,5 @@
 <h1>Deal or No Deal Mobile Application</h1>
-https://github.com/ashvinibalte/deal_or_no_deal_mobile_application./blob/master/Deal_noDeal_Mobile_Application.mp4
+https://github.com/ashvinibalte/Grade_Tracker_Application_FirebaseGradAppandReviews/assets/125997432/a0849b99-823f-4be0-864e-98593854718e
 
 <h2>Overview</h2>
 <p>Welcome to the <b>Deal or No Deal Mobile Application</b> project! This project is a mobile application inspired by the popular TV game show "Deal or No Deal," where players can simulate the experience of playing the game on their mobile devices. The app allows users to select briefcases, eliminate options, and decide whether to accept the banker's offer or continue playing to see if they can win the top prize.</p>
